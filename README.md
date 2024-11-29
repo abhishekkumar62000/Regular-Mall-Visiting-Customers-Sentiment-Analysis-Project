@@ -88,8 +88,3 @@ This project aims to analyze the sentiment of regular mall visitors based on cus
 Feel free to reach out for any questions or suggestions. Enjoy exploring the project! 😊
 ```
 
-### Notes:
-- Replace placeholders like `your-username` and `your_email@example.com` with your actual information.
-- If you have a `requirements.txt` file for the dependencies, make sure it's included in the project directory.
-
-This `README.md` is designed to be clear and informative for anyone exploring your GitHub repo, while giving a comprehensive overview of your project.
